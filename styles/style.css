@@ -143,3 +143,27 @@ header
     align-items: center;
     max-width: 720px;
 }
+
+/* instra style */
+
+.instra
+{
+    width: 1800px;
+    height: 4867px;
+}
+
+.instra-info
+{
+    align-items: center;
+    padding: 30px 634px;
+    text-align: center;
+}
+.flower-img
+{
+    width: 342px;
+    height: 396px;
+    display:flex;
+    padding-left: 100px;
+    gap:30px
+    
+}
