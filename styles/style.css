@@ -54,3 +54,92 @@ header
     width: 500px;
 
 }
+/* about style */
+.about
+{
+    align-items: center;
+    padding: 100px 634px;
+    text-align: center;
+}
+.about-title
+{
+    color: #272727;
+    font-size: 40px;
+    margin: 5px;
+
+}
+.about-discription
+{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+}
+
+/* Flower info style */
+
+.flower
+{
+    display: flex;
+    width: 1920px;
+    height: 4867px;
+    margin-top: 5px;
+    width: 310px;
+    height: 428px;
+    margin: 0px 300px 0px 300px;
+    align-items: center;
+    padding-bottom: 100px;
+
+
+}
+.Flower-1
+{
+    border-radius: 300px 300px 0px 0px;
+    margin: 10px;
+}
+#f1
+{
+    
+        background: rgba(167, 33, 98, 0.15);
+        width: 310px;
+        height: 428px;
+
+
+}
+#f2
+{
+  
+    background: rgba(5, 151, 160, 0.15);
+    width: 310px;
+    height: 428px;
+
+
+
+}
+#f3
+{
+
+    background: rgba(71, 125, 17, 0.15);
+    width: 310px;
+    height: 428px;
+
+
+
+}
+.hot-deal
+{
+   
+    width: 1922px;
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    align-items: center;
+    padding: 10px 30px 0px 300px;
+
+
+}
+.hot-deal-contaim
+{
+    display: block;
+    align-items: center;
+    max-width: 720px;
+}
