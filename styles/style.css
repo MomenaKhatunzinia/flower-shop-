@@ -90,6 +90,7 @@ header
 
 
 }
+
 .Flower-1
 {
     border-radius: 300px 300px 0px 0px;
@@ -123,6 +124,11 @@ header
 
 
 
+}
+#link-id
+{
+    padding-left: 110px ;
+    text-align: center;
 }
 .hot-deal
 {
