@@ -1,0 +1,56 @@
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    background: #e554731a;
+    
+}
+.header-item
+{
+    display: flex;
+    padding: 10px 30px 0px 100px;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.btn-primary
+{
+    
+    border-radius: 8px;
+    background: #E55473;
+    border:0px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+    margin-bottom: 10px;
+
+}
+.banner-contain
+{
+    max-width: 720px;
+}
+
+
+.banner-title
+{
+    color: #272727;
+    font-size: 80px;
+    margin-bottom: 5px;
+}
+.banner-discription
+{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.banner-img
+{
+    width: 500px;
+
+}
