@@ -7,6 +7,7 @@ body
 header
 {
     background: #e554731a;
+    width: 2260px;
     
 }
 .header-item
@@ -58,7 +59,15 @@ header
 .about
 {
     align-items: center;
-    padding: 100px 634px;
+    padding: 50px 30px 30px 50px;
+    text-align: center;
+    width: 1920px;
+    height: 786px;
+}
+.about-info
+{
+    max-width: 720px;
+    padding: 0px 100px 50px 500px;
     text-align: center;
 }
 .about-title
@@ -79,13 +88,12 @@ header
 .flower
 {
     display: flex;
-    width: 1922px;
-    height: 4867px;
     margin-top: 5px;
     width: 310px;
     height: 428px;
-    margin: 0px 300px 0px 300px;
+    margin: 0px 300px 0px 350px;
     align-items: center;
+    text-align: center;
     padding-bottom: 100px;
 
 
@@ -95,13 +103,16 @@ header
 {
     border-radius: 300px 300px 0px 0px;
     margin: 10px;
+    gap: 25px;
+    width: 310px;
+    height: 428px;
+    padding-top: 50px;
+
 }
 #f1
 {
     
         background: rgba(167, 33, 98, 0.15);
-        width: 310px;
-        height: 428px;
 
 
 }
@@ -109,26 +120,24 @@ header
 {
   
     background: rgba(5, 151, 160, 0.15);
-    width: 310px;
-    height: 428px;
-
-
 
 }
 #f3
 {
 
     background: rgba(71, 125, 17, 0.15);
-    width: 310px;
-    height: 428px;
-
-
 
 }
 #link-id
 {
-    padding-left: 110px ;
-    text-align: center;
+    padding: 0 50px 0 50px;
+    text-decoration: none;
+    color: #d61b43;
+
+}
+#link-id:hover
+{
+    background-color: #c9a1aa;
 }
 .hot-deal
 {
@@ -168,9 +177,9 @@ header
 .flower-img
 {
     width: 342px;
-    height: 396px;
+    height: 300px;
     display:flex;
-    padding-left: 100px;
+    padding-left: 300px;
     gap:30px
     
 }
@@ -204,7 +213,7 @@ header
 .footer-contain
 {
     background-color:black;
-    width: 1922px;
+    width: 2260px;
     height: 449px;
     
 
